@@ -27,10 +27,9 @@ The Fit Truk App improves the scheduling and signup experiences of trainers and 
 Customers are able to see upcoming classes and register for them; While administrators are able to create new classes, update existing class info, track attendance, and send updates to class participants all while keeping with Fit Truks’ brand standards and maintaining an enjoyable and cohesive experience for the user.
 
 
-To see the fully functional site, please visit: [https://fittruk.herokuapp.com](https://fittruk.herokuapp.com/#/home)
 
 
-## Screen Shot
+## In app Screenshots
 
 <div style="display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;">
 <img src="public/screenshots/landing-page.png" alt="all classes page" style="height: 500px;"/>
